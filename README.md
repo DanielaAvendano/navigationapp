@@ -1,4 +1,4 @@
-# navigationapp
+# Navigationapp
 Tutorial to practice react-navigation with bare ReactNative.
 
 In this project: 
